@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SiddarthaKoppaka
--I’m interested in IT sector
--I’m currently learning <DATA SCIENCE/>
+-I’m a student at Faculty of Engineering and Technology, Gurukula Kangri Vishwavidyalay(GKV), Haridwar.
+-I’m currently learning DATA SCIENCE
 -To reach me, Mail: siddu42128@gmail.com
 
 <!---
