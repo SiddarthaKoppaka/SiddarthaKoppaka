@@ -11,8 +11,10 @@
 ### **🏆 Certifications & Badges**  
 
 Here are some of the certifications I’ve earned:  
-![aws-certified-cloud-practitioner](https://github.com/user-attachments/assets/c43ec8ef-4a6d-4b08-ae35-81ee5e41b383)
+<img src="https://github.com/user-attachments/assets/c43ec8ef-4a6d-4b08-ae35-81ee5e41b383" alt="AWS Certified Cloud Practitioner" width="150">
+
 <img src="https://github.com/user-attachments/assets/3d876cbf-5329-4df6-908a-b978439887c4" alt="Databricks Certification" width="150">
+
 ---
 
 ### **📬 Let's Connect!**  
