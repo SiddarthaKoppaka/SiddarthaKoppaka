@@ -34,9 +34,6 @@ Here are some of the certifications I’ve earned:
 
 ---
 
-### **Github Stats** 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SiddarthaKoppaka&show_icons=true&theme=dark)
-
 ### **Let's Connect!**  
 
 **Email:** siddarthakoppaka@gmail.com  
