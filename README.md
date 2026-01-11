@@ -3,6 +3,7 @@
 My work lives at the boundary between machine learning research and production systems. The projects here focus on applied AI, scalable data pipelines, and distributed architectures built with real-world constraints in mind.
 
 From RAG-based systems to NLP applications and cloud-native ML workflows, each project reflects an emphasis on clean design, scalability, and long-term maintainability.
+
 ---
 
 ### **Certifications & Badges**  
