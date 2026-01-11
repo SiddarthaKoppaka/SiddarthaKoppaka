@@ -4,6 +4,19 @@ My work lives at the boundary between machine learning research and production s
 
 From RAG-based systems to NLP applications and cloud-native ML workflows, each project reflects an emphasis on clean design, scalability, and long-term maintainability.
 
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn)
+
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis)
+
 ---
 
 ### **Certifications & Badges**  
