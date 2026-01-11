@@ -1,14 +1,11 @@
-### **🚀 About Me**  
+### **About Me**  
 
-👨‍💻 **MS CS Candidate @ Indiana University Bloomington** | Specializing in **Applied Machine Learning, AI, and Scalable Systems**. Passionate about building **high-performance, distributed applications** and **data-driven intelligent systems**.  
+My work lives at the boundary between machine learning research and production systems. The projects here focus on applied AI, scalable data pipelines, and distributed architectures built with real-world constraints in mind.
 
-🔍 My repositories showcase my journey in **AI, ML, and software development**, featuring projects on **retrieval-augmented generation (RAG), NLP applications, sentiment analysis, scalable data engineering, and cloud-based AI solutions**.  
-
-⚡ I love tackling **real-world challenges** in **ML engineering, big data processing, and full-stack development**. Always open to **collaborations** that push boundaries in AI research, data engineering, and distributed computing.  
-
+From RAG-based systems to NLP applications and cloud-native ML workflows, each project reflects an emphasis on clean design, scalability, and long-term maintainability.
 ---
 
-### **🏆 Certifications & Badges**  
+### **Certifications & Badges**  
 
 Here are some of the certifications I’ve earned:  
 
@@ -23,10 +20,10 @@ Here are some of the certifications I’ve earned:
 
 ---
 
-### **📬 Let's Connect!**  
+### **Let's Connect!**  
 
-✉️ **Email:** siddarthakoppaka@gmail.com  
-🌐 **GitHub:** [SiddarthaKoppaka](https://github.com/SiddarthaKoppaka)  
-💼 **LinkedIn:** [Siddartha Koppaka](https://www.linkedin.com/in/siddartha-koppaka-551ab1204/)  
+**Email:** siddarthakoppaka@gmail.com  
+**GitHub:** [SiddarthaKoppaka](https://github.com/SiddarthaKoppaka)  
+**LinkedIn:** [Siddartha Koppaka](https://www.linkedin.com/in/siddartha-koppaka-551ab1204/)  
 
-🚀 **Always learning, always building!**  
+**Always learning, always building!**  
