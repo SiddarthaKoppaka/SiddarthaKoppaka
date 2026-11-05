@@ -51,15 +51,11 @@ Currently exploring : **Secure Enterprise AI Systems, Builidng LLMs from scratch
   <img src="https://github.com/user-attachments/assets/c43ec8ef-4a6d-4b08-ae35-81ee5e41b383" alt="AWS Cloud Practitioner badge" height="95" />
   <img src="https://github.com/user-attachments/assets/1cc3b230-b1c7-49da-a646-f234fa74037f" alt="Additional certification badge" height="95" />
   <img src="https://github.com/user-attachments/assets/a89c0b52-3094-450d-8237-81a779c69135" alt="Additional certification badge" height="95" />
+  <img src="https://templates.images.credential.net/17613129875092573230567689119660.png" alt="Credential certificate image" width="95" />
+  <img src="https://templates.images.credential.net/17613128948123067507712718351377.png" alt="Credential certificate image" width="95" />
 </p>
 
-<details>
-  <summary>More credential images</summary>
-  <p>
-    <img src="https://templates.images.credential.net/17613129875092573230567689119660.png" alt="Credential certificate image" width="175" />
-    <img src="https://templates.images.credential.net/17613128948123067507712718351377.png" alt="Credential certificate image" width="175" />
-  </p>
-</details>
+
 
 ---
 
