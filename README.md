@@ -14,18 +14,7 @@ My work sits at the boundary between machine learning and production engineering
 
 From RAG and agentic workflows to cloud-native ML applications, I care about the parts that matter after a prototype works: **clear architecture, meaningful evaluation, security, reliability, and long-term maintainability.**
 
-Currently exploring **MCP-based tool orchestration, multi-tenant authorization, AI evaluation, and local-first intelligence systems**.
-
-### Selected Projects
-
-| Project | Focus |
-| --- | --- |
-| [Stram Quant MCP](https://github.com/SiddarthaKoppaka/stram_quant_mcp) | Authenticated, read-only MCP tools for quantitative market data, with scoped access, isolated execution, and audit trails. |
-| [Stram Qualitative MCP](https://github.com/SiddarthaKoppaka/stram_qualitative_mcp) | MCP tools for news and SEC filings, with authorization boundaries and controlled data access. |
-| [Unmasking Hate](https://github.com/SiddarthaKoppaka/Unmasking_hate) | Telugu-language hate-speech detection using multilingual NLP and transformer models. |
-| [Distributed Social Networking](https://github.com/SiddarthaKoppaka/Distributed-Social-Networking-Application) | A containerized Spring Boot + React application using PostgreSQL, JWT authentication, and real-time messaging. |
-| [Iris Classification with ViT](https://github.com/SiddarthaKoppaka/Iris-Classification-Using-Vision-Transformer) | Vision Transformer-based image classification, from preprocessing to training and evaluation. |
-
+Currently exploring : **Secure Enterprise AI Systems, Builidng LLMs from scratch & Inference Engineering**
 ### Tech Stack
 
 **AI & Machine Learning**
@@ -56,10 +45,6 @@ Currently exploring **MCP-based tool orchestration, multi-tenant authorization, 
 
 ### Certifications & Badges
 
-- **AWS Certified Machine Learning Engineer – Associate**
-- **AWS Certified Cloud Practitioner**
-- **Databricks Certified Data Engineer Associate**
-- **Databricks Certified Generative AI Engineer Associate**
 
 <p>
   <img src="https://github.com/user-attachments/assets/3d876cbf-5329-4df6-908a-b978439887c4" alt="Databricks certification badge" height="95" />
